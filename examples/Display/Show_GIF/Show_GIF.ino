@@ -1,4 +1,4 @@
-// Base sketch from Fil Connesso, https://www.youtube.com/watch?v=qNVWZY3WbhU
+// Base sketch from Filo Connesso, https://www.youtube.com/watch?v=qNVWZY3WbhU
 // Using AnimatedGIF from @bitbank2
 // Thanks!!
 
